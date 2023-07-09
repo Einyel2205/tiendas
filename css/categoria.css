@@ -57,9 +57,15 @@ img{
     width: 150px;
     height: 40px;
     font-size: 20px;
+<<<<<<< HEAD
     background-color: #24282b;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:#1293d4;
+=======
+    background-color: #00eaff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#9500ff;
+>>>>>>> feature/carrito
 }
 .productos span{
     font-size: 30px;
