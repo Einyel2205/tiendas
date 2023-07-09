@@ -1,0 +1,44 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: antiquewhite;
+    border: 4px solid #24282b;
+}
+#logo{
+    display: grid;
+    place-content: center;
+    place-items: center;
+}
+#comidaInicio{
+    color: #1293d4;
+    font-size: 60px;
+    margin-bottom: 50px;
+}
+figure img{
+    width: 800px;
+    height: 500px;
+    margin-bottom: 50px;
+}
+section{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+a{
+    color: rgb(135, 35, 228);
+    text-decoration: none;
+    background-color: antiquewhite;
+}
+footer{
+    background-color: #24282b;
+    color: #1293d4;
+    text-align: center;
+    height: 60px;
+    margin-top: 30px;
+    font-size: 25px;
+}
